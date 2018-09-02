@@ -6,7 +6,7 @@
 - Some libraries are released under `MIT license`, some have `Copyright © 2018 Mateusz Patyk`, I am working on it to write documentation for most libraries, and release them under MIT or LGPL license.
 
 ## Features
-For features list check [Drone Base Firmware](https://github.com/MatthewPatyk/Drone-Remote-Firmware).
+For features list check [Drone Base Firmware](https://github.com/MatthewPatyk/Drone-Base#features).
 
 ## Getting Started
 The project is writen in [Atmel Studio 7](http://www.microchip.com/mplab/avr-support/atmel-studio-7) with [Visual Micro](https://www.visualmicro.com/) addon. But **it is possible to run it with Arduino IDE** by [adding files to project](https://www.arduino.cc/en/Guide/Environment#toc8) (probably there will be need to change the `#include` paths).
